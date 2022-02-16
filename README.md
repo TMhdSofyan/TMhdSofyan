@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🙌 Thank you for drop by my GITHUB
+#### 🙌 Thank you for drop by my GitHub
 - #### 👨‍🎓 I'm @TMhdSofyan
 - #### 👨‍🔧 I'm interested in Energy / Reservoir Engineering / Enhanced Oil Recovery / Data Science Field
 - #### ✍ I'm currently learning Python and Reservoir Simulation Software (CMG)

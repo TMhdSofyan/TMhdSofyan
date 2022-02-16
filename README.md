@@ -4,6 +4,7 @@
 - #### 👨‍🔧 I'm interested in Energy / Reservoir Engineering / Enhanced Oil Recovery / Data Science Field
 - #### ✍ I'm currently learning Python and Reservoir Simulation Software (CMG)
 - #### 💞 I'm looking to collaborate on Petroleum Engineering open source project
+- #### 📫 How to reach me: tengkusofyan41@gmail.com
 <!--
 **TMhdSofyan/TMhdSofyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
